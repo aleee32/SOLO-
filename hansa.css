@@ -1,0 +1,108 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.circle {
+  color: blue;
+}
+
+.rectangle {
+  color: red;
+}
+
+.triangle {
+  color: green;
+}
+#my-image
+{transform: translate(-49px, -264px);
+
+}
+#my-image1{
+  transform: translate(576px, -354px);
+}
+#tr{
+  transform: translate(882px, -211px);;
+}
+#rc{
+  transform: translate(-150px, -15px);
+}
+#rec{
+  transform: translate(475px, 119px);
+}
+
+#my-image2{
+  transform: translate(-594px, -123px)
+}
+body {
+  background-color: #269cae;
+}
+#gg{
+  transform: translate(0px, -314px);
+  color: darkkhaki;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: italic;
+transform: translate(73px, -320px);
+}
+#gg2{ 
+  transform: translate(0px, -314px);
+  color: darkkhaki;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: italic;
+transform: translate(560px, -422px);
+
+}
+#gg1{ 
+  transform: translate(0px, -314px);
+  color: rgb(147, 142, 72);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: italic;
+transform: translate(1218px, -507px);
+}
+
+.video-background {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  z-index: -100;
+}
+.video-foreground {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+
+
+.content {
+  position: relative;
+  z-index: 1;
+}
+p{
+  size: 20cm;
+  font-style: oblique;
+  font-weight: bold;
+  color: gold;
+}
+#sasa{transform: translate(175px, -296px);
+font-size: 63px;
+color: gold;
+font-family: fantasy;
+font-weight: bold;
+}
+nav {
+  background-color: black;
+}
+h6{
+  font-size: 24px;
+  transform: translate(25px, 150px);
+  color: gold;}
